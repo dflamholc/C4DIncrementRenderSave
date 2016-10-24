@@ -1,15 +1,15 @@
-# C4DIncrementRenderSave
+**# C4DIncrementRenderSave**
 Script for Cinema 4D that saves and renders current doc, then closes it and opens an incremented clone.
 
 
-author: vfxvoodoo.com // David Flamholc
-email: dflamholc@gmail.com
+_author:_ __vfxvoodoo.com // David Flamholc__
+_email:_ __dflamholc@gmail.com__
 
 
 
-Version LOG
+__Version LOG__
 
-Initial release 22-10-2016
+_Initial release 22-10-2016_
 
 -- IncrementRenderSavePV_v1.1
 
@@ -17,7 +17,7 @@ Initial release 22-10-2016
 
 
 
-DESCRIPTIOIN & INTENDED USE
+__DESCRIPTIOIN & INTENDED USE__
 
 A script for Cinema 4D that will save the current doc and render it in the Picture Viewer or preparing for a Region Render. After render starts the doc will be closed, and a clone of the document will be incremented and made ready for edit.
 
@@ -27,7 +27,7 @@ The idea of this script is to facilitate render tests, where its easy to backtra
 
 
 
-TODO LIST:
+__TODO LIST:__
 
 [ ] Create subfolder to saved docs as the amount increments can grow out of comfort zone
 
