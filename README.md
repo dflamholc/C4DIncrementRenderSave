@@ -6,6 +6,7 @@ author: vfxvoodoo.com // David Flamholc
 email: dflamholc@gmail.com
 
 
+
 Version LOG
 
 Initial release 22-10-2016
@@ -13,6 +14,7 @@ Initial release 22-10-2016
 -- IncrementRenderSavePV_v1.1
 
 -- IncrementRenderSaveRgn_v1.1 
+
 
 
 DESCRIPTIOIN & INTENDED USE
@@ -24,13 +26,14 @@ This way the current render file-name in the picture viewer will correspond to r
 The idea of this script is to facilitate render tests, where its easy to backtrack to a previous image stored in the Picture Viewer, as there will be a c4d document saved with that exact name.
 
 
+
 TODO LIST:
 
-[] Create subfolder to saved docs as the amount increments can grow out of comfort zone
+[ ] Create subfolder to saved docs as the amount increments can grow out of comfort zone
 
-[] Create GUI with options to keep only a defined number of copies
+[ ] Create GUI with options to keep only a defined number of copies
 
-[] Option to delete those copies once render tests are done
+[ ] Option to delete those copies once render tests are done
 
 
 ends...
