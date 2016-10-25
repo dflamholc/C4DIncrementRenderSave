@@ -25,7 +25,7 @@ https://developers.maxon.net/docs/Cinema4DPythonSDK/html/modules/c4d.documents/i
 http://forums.cgsociety.org/archive/index.php?t-921256.html
 
 Thanks to:
-Niklas Rosenstein & michael@flipswitchingmonkey.com for parts of their freely available scripts that I've found online.
+Niklas Rosenstein & Michael Auerswald for parts of their freely available scripts that I've found online.
 """
 
 import c4d, os
