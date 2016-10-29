@@ -11,11 +11,14 @@ __Version LOG__
 
 _Initial release 22-10-2016_
 
--- IncrementRenderSavePV_v1.1
+_-- IncrementRenderSavePV_v1.1_
 
--- IncrementRenderSaveRgn_v1.1
+_-- IncrementRenderSaveRgn_v1.1_
 
--- IcrementRenderSavePV_v1.3
+
+_Second release 29-10-2016_
+_-- IcrementRenderSavePV_v1.3_
+
 	- Implemented creation of a subfolder which all incremented versions are saved into.
 	- Implemented creation of a .nfo file where the user can set the desired number of incremented files to be kept in the subfolder,
 	before the oldest one by date/time will be deleted.
