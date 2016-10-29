@@ -1,12 +1,12 @@
 
 """
-Name-US: IncrementRenderSavePV_v1.2 29-10-2016
+Name-US: IncrementRenderSavePV_v1.3 29-10-2016
 Description-US: Saves the current document and renders it to Picture Viewer, 
 then incrementing the document name and opening it.
 Author: David Flamholc
 """
 # IncrementRenderSave version Variable
-irs_v = "IncrementRenderSavePV_v1.2"
+irs_v = "IncrementRenderSavePV_v1.3"
 
 """
 LICENSE
